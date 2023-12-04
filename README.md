@@ -1,2 +1,4 @@
 # Flipper-Zero-Animations
-Custom made Flipper Zero Animation
+My custom made Flipper Zero Animation
+
+More details soon.. just chewing through github settings :)
