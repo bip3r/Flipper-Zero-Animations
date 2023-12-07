@@ -10,10 +10,10 @@ BMs folder - contains above animations in .BM format already ready :) to be impl
 
 Previews (from PNGs) of the Flippers animations:
 
-https://github.com/bip3r/Flipper-Zero-Animations/blob/d90af7b7e9f4aee7af3605736b759aaab75ec0ea/happy.gif
+<img src="https://github.com/bip3r/Flipper-Zero-Animations/blob/d90af7b7e9f4aee7af3605736b759aaab75ec0ea/happy.gif">
 
-https://github.com/bip3r/Flipper-Zero-Animations/blob/d90af7b7e9f4aee7af3605736b759aaab75ec0ea/happy2.gif
+<img src="https://github.com/bip3r/Flipper-Zero-Animations/blob/d90af7b7e9f4aee7af3605736b759aaab75ec0ea/happy2.gif">
 
-https://github.com/bip3r/Flipper-Zero-Animations/blob/d90af7b7e9f4aee7af3605736b759aaab75ec0ea/roll.gif
+<img src="https://github.com/bip3r/Flipper-Zero-Animations/blob/d90af7b7e9f4aee7af3605736b759aaab75ec0ea/roll.gif">
 
-https://github.com/bip3r/Flipper-Zero-Animations/blob/d90af7b7e9f4aee7af3605736b759aaab75ec0ea/wave.gif
+<img src="https://github.com/bip3r/Flipper-Zero-Animations/blob/d90af7b7e9f4aee7af3605736b759aaab75ec0ea/wave.gif">
