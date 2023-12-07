@@ -9,14 +9,14 @@ PNGs folder - contains animation frames in .PNG format to view them (animated pr
 BMs folder - contains above animations in .BM format already ready :) to be implanted into your Flipper
 
 Previews (from PNGs) of the Flippers animations:
-#happy:
+happy:
 <img src="https://github.com/bip3r/Flipper-Zero-Animations/blob/d90af7b7e9f4aee7af3605736b759aaab75ec0ea/happy.gif">
 
-#happy2
+happy2
 <img src="https://github.com/bip3r/Flipper-Zero-Animations/blob/d90af7b7e9f4aee7af3605736b759aaab75ec0ea/happy2.gif">
 
-#roll
+roll
 <img src="https://github.com/bip3r/Flipper-Zero-Animations/blob/d90af7b7e9f4aee7af3605736b759aaab75ec0ea/roll.gif">
 
-#wave
+wave
 <img src="https://github.com/bip3r/Flipper-Zero-Animations/blob/d90af7b7e9f4aee7af3605736b759aaab75ec0ea/wave.gif">
