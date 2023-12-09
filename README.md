@@ -4,7 +4,7 @@ My custom made Flipper Zero Animation.
 My plan is to publish a new animation at least every week.
 
 In short:  
-PNGs folder - contains animation frames in .PNG format to view them (animated previews on github planned for later)
+PNGs folder - contains animation frames in .PNG format to view them (animated previews below)
 
 BMs folder - contains above animations in .BM format already ready :) to be implanted into your Flipper
 
