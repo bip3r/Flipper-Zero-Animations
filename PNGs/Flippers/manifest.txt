@@ -6,18 +6,32 @@ Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 7
+Weight: 3
+
+Name: happy2
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: herd
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
 
 Name: roll
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 7
+Weight: 3
 
 Name: wave
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 7
+Weight: 3
