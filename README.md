@@ -27,6 +27,9 @@ happy:
 happy2
 <img src="https://github.com/bip3r/Flipper-Zero-Animations/blob/d90af7b7e9f4aee7af3605736b759aaab75ec0ea/happy2.gif">
 
+herd
+<img src="https://github.com/bip3r/Flipper-Zero-Animations/blob/904bcce6525d7a5da7f93dd3ca16dd142eec24c0/herd.gif">
+
 roll
 <img src="https://github.com/bip3r/Flipper-Zero-Animations/blob/d90af7b7e9f4aee7af3605736b759aaab75ec0ea/roll.gif">
 
