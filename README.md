@@ -1,8 +1,6 @@
 # Flipper-Zero-Animations
 My custom made Flipper Zero Animation.
 
-My plan is to publish a new animation at least every week.
-
 In short:  
 PNGs folder - contains animation frames in .PNG format to view them (animated previews below)
 
